@@ -2,11 +2,11 @@
 .nav-link{
     margin: 10px;
     width: 80px;
-    transition: .15s;
+    transition: .17s;
     text-align: center;
 }
 .nav-link:hover{
-  border-bottom: 2px solid;
+  border-bottom: 5px solid;
   border-bottom-color: orange;
 
 }

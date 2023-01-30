@@ -30,7 +30,7 @@
     margin-top: 100px;
     background-color:rgb(243, 243, 243);
     margin-bottom: 100px;
-}
+    }
 .aljon-right{
     border-radius: 10px;
     margin: 20px;
@@ -38,8 +38,8 @@
 }
 
 .web-dev-text{
-    text-justify: auto;
     padding-top: 15px;
+    text-align: justify;
 }
 
 .description{
@@ -56,6 +56,6 @@
 }
 
 .socmed-icons a .img-fluid:active{
-    height: 60px;
-    width: 60px;
+    height: 58px;
+    width: 58px;
 }
