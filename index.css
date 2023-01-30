@@ -26,3 +26,36 @@
     width: 500px;
 }
 
+.web-dev{
+    margin-top: 100px;
+    background-color:rgb(243, 243, 243);
+    margin-bottom: 100px;
+}
+.aljon-right{
+    border-radius: 10px;
+    margin: 20px;
+    max-height: 500px;
+}
+
+.web-dev-text{
+    text-justify: auto;
+    padding-top: 15px;
+}
+
+.description{
+    padding: 50px;
+}
+
+.socmed-icons .img-fluid{
+    margin: 40px;
+}
+
+.socmed-icons a .img-fluid:hover{
+    height: 60px;
+    width: 60px;
+}
+
+.socmed-icons a .img-fluid:active{
+    height: 60px;
+    width: 60px;
+}
