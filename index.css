@@ -1,22 +1,15 @@
 *{
 	font-family: 'Josefin Sans', sans-serif;
-}
-
-#Name{
-    color: rgb(45, 189, 214);
-}
-#navbarNav .navbar-nav .nav-item .navlink:hover{
-    color:rgb(16, 97, 163);
-    transition: .4s;
-
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    scroll-behavior: smooth;
+    text-decoration: none;
+    position: static;
 }
 
 .landing-message{
-    font-size: 50px;
-}
-#portf{
-    font-weight: bold;
-    font-size: 35px;
+    font-size: 30px;
 }
 
 #Projects{
@@ -30,8 +23,6 @@
 
 #aljonimg{
     border-radius: 50%;
-    width: 50%;
-    object-fit:cover;
-   object-position:50% 50%;
-   border-color: rgb(35, 90, 138);
+    width: 500px;
 }
+

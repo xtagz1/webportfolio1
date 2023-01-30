@@ -1,0 +1,56 @@
+
+.nav-link{
+    margin: 4px;
+    border: 2px solid;
+    border-radius: 20px;
+    width: 80px;
+    text-align: center;
+}
+
+#portf{
+  font-weight: bold;
+  font-size: 35px;
+  margin-left: 50px;
+  color: white;
+}
+
+#tools-nav{
+  margin-right: 25px;
+}
+
+#contact-nav{
+  background-color:rgb(73, 67, 54); 
+  border-radius: 20px;
+  width: 90px;
+  text-align: center;
+  color: orange;
+  margin-right: 50px;
+  text-decoration-line: none;
+  transition: .15s;
+  border: none;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+#contact-nav:hover{
+  opacity: .7;
+  padding: 9px
+}
+#contact-nav:active{
+  opacity: .8;
+}
+
+
+.navbar{
+  background-color: black;
+}
+.header{
+
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 100;
+  
+}
+
+
